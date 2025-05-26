@@ -5,7 +5,7 @@ site_url: "https://rosestack.github.io/"
 
 # Repository
 repo_name: "rosestack/rosestack.github.io"
-repo_url: "https://rosestack.github.io"
+repo_url: "https://github.com/rosestack/rosestack.github.io"
 
 # Copyright
 copyright: "Copyright &copy; 2024 RoseStack"
