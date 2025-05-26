@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"RoseStack","text":"<p>The RoseStack GitHub organization provides repository hosting (including build, CI, and release publishing setup) for Java libraries.</p>"}]}
