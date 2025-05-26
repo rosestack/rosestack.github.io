@@ -1,0 +1,29 @@
+site_name: "RoseStack"
+site_description: "RoseStack"
+site_author: "rosestack"
+site_url: "https://rosestack.github.io/"
+
+# Repository
+repo_name: "rosestack/rosestack.github.io"
+repo_url: "https://rosestack.github.io"
+
+# Copyright
+copyright: "Copyright &copy; 2024 RoseStack"
+
+theme:
+  name: material
+nav:
+  - Home: index.md
+# Customization
+extra:
+  manifest: "manifest.webmanifest"
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: "https://github.com/rosestack"
+    - icon: fontawesome/brands/twitter
+      link: "https://twitter.com/ichensoul"
+
+# Extensions
+markdown_extensions:
+  - codehilite
+  - tables
